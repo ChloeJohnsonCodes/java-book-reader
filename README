@@ -1,0 +1,37 @@
+# Project 4: Reader of Books
+
+* Author: Chloe Johnson
+* Class: CS121 Section 2
+* Semester: Spring 2019
+
+## Overview
+
+This Java application displays a GUI with a reader panel, a library panel, and 
+a reader of books panel. Books are loaded into a library and the user can
+select a book to read. 
+
+## Compiling and Using
+
+To compile, execute the following command in the main project directory:
+```
+$ javac ReaderOfBooks.java
+```
+
+Run the compiled class with the command:
+```
+$ java ReaderOfBooks
+```
+
+The application will open a window that allows the user to load books into the library 
+and read them.
+## Sources used
+
+- I found code for creating borders on docs.oracle.com.
+https://docs.oracle.com/javase/tutorial/uiswing/components/border.html
+
+- I found code for removing borders on stackoverflow.com
+https://stackoverflow.com/questions/26855468/remove-border-from-jscrollpane?rq=1
+
+- I found code for removing all components from a panel on stackoverflow.com
+https://stackoverflow.com/questions/38349445/how-to-delete-all-components-in-a-jpanel-dynamically?rq=1
+
